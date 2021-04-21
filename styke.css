@@ -1,0 +1,53 @@
+.body{
+	margin: auto;
+	padding: 0;
+	align-items: center;
+
+}
+
+.header_area{
+	background:#07070a;
+
+}
+.logo_area{
+	width: 100px;
+
+}
+.logo_area img{
+	width: 450%;
+	padding: 50px;
+}	
+
+.main_area .content_area{
+	width: 75%;
+	float: right;
+	margin-right: 5%
+}
+.main_area aside{
+	width: 80%;
+	overflow: hidden;
+
+}
+.saide img{
+	widows: 200px;
+}
+article h2{
+	color:green;
+	font-family: tahoma;
+
+}
+.main_area{
+	width: 90%;
+	margin: auto;
+}
+article p{
+	font-family: tahoma;
+	font-size: 19px;
+}
+footer p{
+	font-family: tahoma;
+	font-size: 20px;
+	text-align: center;
+	background: #e74c3c;
+	padding: 20px;
+}
